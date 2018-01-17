@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "861337053645",
+    "firebase_url": "https://eventmanager-ad15f.firebaseio.com",
+    "project_id": "eventmanager-ad15f",
+    "storage_bucket": "eventmanager-ad15f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861337053645:android:660554bece746da2",
+        "android_client_info": {
+          "package_name": "com.insomniac.eventmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861337053645-dc28bv7g074e8lhv9t9seo3rcgsdnn37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insomniac.eventmanager",
+            "certificate_hash": "92b780e8d6f8e69ca234b0c8ecaffc33230c9c0d"
+          }
+        },
+        {
+          "client_id": "861337053645-fqkvqsvlu8eq2t7luf3onslv4nd8ehd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU81iW5ZFAKEoxNV2jeme7MHVz7P5lKwg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861337053645-fqkvqsvlu8eq2t7luf3onslv4nd8ehd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
